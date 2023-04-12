@@ -1,4 +1,4 @@
-![logo](https://scontent-sin6-2.xx.fbcdn.net/v/t39.30808-6/336708580_761130555341849_6907307502694126190_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEXq-2oGTc5U2M9-0p4DmXMz4d3kXtGGUrPh3eRe0YZSqHUmJpTRAWs9JaiJmPbIJoWpyIsvXPMMduXW7NDuxWK&_nc_ohc=gAWyUObr13cAX-u717X&_nc_ht=scontent-sin6-2.xx&oh=00_AfCcjJOKj-t4RNiiY2R51YFkMDjOVVxAAM3dlhW0eM2n5A&oe=641D3D1B)
+
 <h1 align="center">Hi 👋, I'm WILY PRADANA</h1>
 <h3 align="center">Experienced Web Developer and UI/UX Designer with a Passion for Crafting Engaging Digital Experiences.</h3>
 
